@@ -11,6 +11,8 @@ http://lessthanhero.io/post/homebrew-with-private-repo-releases/
 Usage
 -----
 
+Copy and paste this into a terminal and follow the instructions:
+
 ```zsh
-./set-homebrew-github-api-token
+curl -sL https://raw.githubusercontent.com/brymck/set-homebrew-github-api-token/master/set-homebrew-github-api-token.zsh | zsh
 ```
